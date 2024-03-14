@@ -6,4 +6,4 @@ This project is focused on predicting survivability outcomes of titanic passenge
 -  cleaning data
 -  creating predictions based on cleaned data
 
-### This code correctly predicted the outcome of passengers with over 76% accuracy
+### This code correctly predicted the outcome of passengers survival outcomes with over 76% accuracy
